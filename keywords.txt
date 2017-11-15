@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ HMC5883L   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+GetData  KEYWORD2
+AngleCalculation  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

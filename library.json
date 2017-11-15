@@ -1,0 +1,23 @@
+{
+    "name": "HMC5883L",
+    "version": "1.0.0",
+    "keywords": "HMC5883L",
+    "description": "HMC5883L电子罗盘传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/HMC5883L.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies": [
+        {
+            "name": "I2Cdev",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
